@@ -75,7 +75,7 @@ class DemoNavbar extends React.Component {
           >
             <Container>
               <NavbarBrand className='mr-lg-5' to='/' tag={Link}>
-                <img alt='...' src={reactWhite} />
+                Kafaween
               </NavbarBrand>
               <button className='navbar-toggler' id='navbar_global'>
                 <span className='navbar-toggler-icon' />
